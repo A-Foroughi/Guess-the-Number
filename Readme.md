@@ -1,0 +1,1 @@
+This program guesses the chosen number by the user in minimum possible questions.
